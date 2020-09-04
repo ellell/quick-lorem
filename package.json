@@ -1,10 +1,11 @@
 {
-  "name": "menubar",
+  "name": "quick-lorem",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quick access to lorem ipsum dummy text, just one click to get it into your clipboard!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
   },
   "author": "",
   "license": "MIT",
